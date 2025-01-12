@@ -1,2 +1,2 @@
-# https://giggletang.github.io
+# https://giggletang.xyz
 # my personal website
